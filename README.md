@@ -1,10 +1,10 @@
 # 👋 Hi, I'm **Samiran Sengupta**
-I currently work with Otto Media remotely. It’s a leading SEO agency in Canberra, Australia. 
+I currently work with **Otto Media** remotely. It’s a **leading SEO agency** in Canberra, **Australia**. 
 As a **Senior Data Strategist**, I craft compelling **data stories for national and international brands**. My work combines **analytics**, **narrative design**, and **strategy**. 
-This helps organisations build **trust**, **credibility**, and **strong brand authority**.
+This helps organisations build **trust**, **credibility** and **strong brand authority**.
 
 I also **consult** with SMEs, including **Skill Centres**, **Coaching Institutes**, **Education and Parenting Organisations**, **NGO & Social Impact Organisations** and teams focused on **elections**, alongside my work at Otto Media. 
-I help them turn **raw data** into **useful insights** and **engaging stories**. These build **authority**, **thought leadership**, and **brand value**. 
+I help them turn **raw data** into **useful insights** and **engaging stories**. These build **trust**, **authority**, **thought leadership**, and **brand value**. 
 
 # 💼 **My Consulting Deliverables**
 
@@ -17,6 +17,7 @@ I help them turn **raw data** into **useful insights** and **engaging stories**.
 ---
 
 ## **For NGO & Social Impact Organisations**
+- 💸 **Fundraising Strategy**
 - 📰 **Situation Assessment**  
 - 🧩 **Program Context & Gap Note**  
 - 🎨 **Visual Insight Pack**  
