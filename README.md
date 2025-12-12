@@ -7,7 +7,9 @@ I also **consult** with SMEs, including **Skill Centres**, **Coaching Institutes
 I help them turn **raw data** into **useful insights** and **engaging stories**. These can build **authority**, **thought leadership**, and **brand value**. 
 
 I have co-authored multiple data-driven articles in **The Hindu**, covering digital divide, inequality, labour market dynamics and social insights.
+
 🔗 **Full author profile:**  
+
 https://www.thehindu.com/profile/author/samiran-sengupta-20270/
 
 ## 📣 Strategic Data Narratives (Current Role at Otto Media)
