@@ -8,7 +8,7 @@ I help them turn **raw data** into **useful insights** and **engaging stories**.
 
 # 💼 **My Consulting Deliverables**
 
-## **For Educational SMEs**
+## **For SMEs**
 - 📄 **Data-Driven Insight Brief**  
 - 🌟 **Trust-Building Data Story**  
 - 📞 **Strategy Call**  
