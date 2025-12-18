@@ -9,20 +9,20 @@ I help them turn **raw data** into **useful insights** and **engaging stories**.
 # 💼 **My Consulting Deliverables**
 
 ## **For SMEs**
-- 📄 **Data-Driven Insight Brief**  
-- 🌟 **Trust-Building Data Story**  
-- 📞 **Strategy Call**  
-- 🎨 **Visual Insight Pack**  
+- **Data-Driven Insight Brief**  
+- **Trust-Building Data Story**  
+- **Strategy Call**  
+- **Visual Insight Pack**  
 
 ---
 
 ## **For NGO & Social Impact Organisations**
-- 💸 **Fundraising Strategy**
-- 📰 **Situation Assessment**  
-- 🧩 **Program Context & Gap Note**  
-- 🎨 **Visual Insight Pack**  
-- ✨ **Impact & Change Narrative**  
-- 📢 **Data-Driven Story & Research Report**  
+- **Data-Backed Donor Narrative**
+- **Data-Driven Story & Research Report**
+- **Situation Assessment**  
+- **Program Context & Gap Note**
+- **Impact & Change Narrative**
+- **Visual Insight Pack**  
 
 ---
 I have co-authored multiple data-driven articles in **The Hindu**, covering digital divide, inequality, labour market dynamics and social insights.
@@ -35,7 +35,7 @@ https://www.thehindu.com/profile/author/samiran-sengupta-20270/
 ## 📣 Strategic Data Narratives (Current Role at Otto Media)
 
 ### **🔹 Major Research Publication** (for Aquatots - a swimming instruction school)
-### **Towards a Drowning-Free Nation – Australia 2025**
+
 A comprehensive research report analysing drowning risks across Australia, demographic patterns, behavioural insights and prevention strategies.  
 
 **Impact:** Positioned Aquatots as an authority in water safety and informed public-facing risk communication.  
