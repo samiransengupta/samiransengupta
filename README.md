@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Samiran Sengupta**
+# 👋 Hi, I'm **Samiran**
 I currently work with **Otto Media** remotely. It’s a **leading SEO agency** in Canberra, **Australia**. 
 As a **Senior Data Strategist**, I craft compelling **data stories for national and international brands**. My work combines **analytics**, **narrative design**, and **strategy**. 
 This helps organisations build **trust**, **credibility** and **strong brand authority**.
