@@ -1,35 +1,22 @@
 # 👋 Hi, I'm **Samiran**
-- I currently work with Otto Media remotely as a Senior Data Strategist. It’s a leading SEO agency in Canberra, Australia. I also consult with NGOs & Social Impact Organisations, agencies and teams focused on elections or policy.
-I help them turn **raw data** into **useful insights** and **engaging stories**. These build **trust**, **authority**, **thought leadership**, and **brand value**. 
+- Currently work with Otto Media remotely as a Senior Data Strategist. It’s a leading SEO agency in Canberra, Australia. I also consult with NGOs & Social Impact Organisations, agencies and teams focused on elections or policy.
+- Translate official datasets into stories, reports, and visual packs that build trust, clarify impact, and support decisions.
+- Combine data analysis with plain-language explanations and media-ready narratives that non-technical audiences can act on.
 
-, I craft compelling **data stories for national and international brands**. My work combines **analytics**, **narrative design**, and **strategy**. 
-This helps organisations build **trust**, **credibility** and **strong brand authority**.
+# ** What you can expect **
+- A clear storyline anchored in credible public or official datasets, tailored to your audience’s questions and doubts.
+- Explanations in accessible language, with charts, comparisons, and examples that show why the data matters for your campaign, policy, or brand.
+- A focus on outcomes: improving understanding, strengthening trust, and giving your team material they can reuse in decks, media, or donor communication.
 
-# 💼 **My Consulting Deliverables**
-
-## **For SMEs**
-- **Data-Driven Insight Brief**  
-- **Trust-Building Data Story**  
-- **Strategy Call**  
-- **Visual Insight Pack**  
-
----
-
-## **For NGO & Social Impact Organisations**
-- **Data-Backed Donor Narrative**
-- **Data-Driven Story & Research Report**
-- **Situation Assessment**  
-- **Program Context & Gap Note**
-- **Impact & Change Narrative**
-- **Visual Insight Pack**  
+# **Consulting Deliverables**
+- **Trust-building data story**: Long-form narrative or research report that explains your impact using official statistics and your internal data, written for citizens, donors, or stakeholders.
+- **Visual insight pack**: Charts, maps, and key figures that your team can plug into presentations, media kits, or policy notes.
+- **Issue briefs & explainers**: Short, focused documents that unpack one topic with data-backed arguments.
 
 ---
-I have co-authored multiple data-driven articles in **The Hindu**, covering digital divide, inequality, labour market dynamics and social insights.
-
-🔗 **Full author profile:**  
-
-https://www.thehindu.com/profile/author/samiran-sengupta-20270/
-
+# **Selected work**
+- I have co-authored multiple data-driven articles in The Hindu, covering digital divide, inequality, labour market dynamics and social insights. **Full author profile:** - https://www.thehindu.com/profile/author/samiran-sengupta-20270/
+---
 ---
 ## 📣 Strategic Data Narratives (Current Role at Otto Media)
 
