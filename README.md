@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Samiran**
-- Currently work with Otto Media remotely as a Senior Data Strategist. It’s a leading SEO agency in Canberra, Australia. I also consult with NGOs & Social Impact Organisations, agencies and teams focused on elections or policy.
+- I help NGOs & Social Impact Organisations, SMEs, agencies and teams focused on elections or policy. I Currently work with Otto Media remotely as a Senior Data Strategist. It’s a leading SEO agency in Canberra, Australia. 
 - Translate official datasets into stories, reports, and visual packs that build trust, clarify impact, and support decisions.
 - Combine data analysis with plain-language explanations and media-ready narratives that non-technical audiences can act on.
 
