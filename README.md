@@ -3,7 +3,7 @@
 - Translate official datasets into stories, reports, and visual packs that build trust, clarify impact, and support decisions.
 - Combine data analysis with plain-language explanations and media-ready narratives that non-technical audiences can act on.
 
-# ** What you can expect **
+# **What you can expect**
 - A clear storyline anchored in credible public or official datasets, tailored to your audience’s questions and doubts.
 - Explanations in accessible language, with charts, comparisons, and examples that show why the data matters for your campaign, policy, or brand.
 - A focus on outcomes: improving understanding, strengthening trust, and giving your team material they can reuse in decks, media, or donor communication.
