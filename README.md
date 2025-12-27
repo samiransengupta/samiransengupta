@@ -8,7 +8,7 @@
 - Explanations in accessible language, with charts, comparisons, and examples that show why the data matters for your campaign, policy, or brand.
 - A focus on outcomes: improving understanding, strengthening trust, and giving your team material they can reuse in decks, media, or donor communication.
 
-# **Consulting Deliverables**
+# **Deliverables**
 - **Trust-building data story**: Long-form narrative or research report that explains your impact using official statistics and your internal data, written for citizens, donors, or stakeholders.
 - **Visual insight pack**: Charts, maps, and key figures that your team can plug into presentations, media kits, or policy notes.
 - **Issue briefs & explainers**: Short, focused documents that unpack one topic with data-backed arguments.
