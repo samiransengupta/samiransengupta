@@ -3,15 +3,27 @@
 - Translate official datasets into stories, reports, and visual packs that build trust, clarify impact, and support decisions.
 - Combine data analysis with plain-language explanations and media-ready narratives that non-technical audiences can act on.
 
-# **What you can expect**
-- A clear storyline anchored in credible public or official datasets, tailored to your audience’s questions and doubts.
-- Explanations in accessible language, with charts, comparisons, and examples that show why the data matters for your campaign, policy, or brand.
-- A focus on outcomes: improving understanding, strengthening trust, and giving your team material they can reuse in decks, media, or donor communication.
+## My Core Insight Framework
 
-# **Deliverables**
-- **Trust-building data story**: Long-form narrative or research report that explains your impact using official statistics and your internal data, written for citizens, donors, or stakeholders.
-- **Visual insight pack**: Charts, maps, and key figures that your team can plug into presentations, media kits, or policy notes.
-- **Issue briefs & explainers**: Short, focused documents that unpack one topic with data-backed arguments.
+Across NGOs & Social Impact Organisations, SMEs, agencies and teams focused on elections or policy:
+
+**Data → Context → Insight → Narrative → Decision**
+
+### Core Deliverables (Common)
+- Insight Brief (what the data is really saying)
+- Visual Insight Pack (clear, decision-ready visuals)
+- Context & Gap Note (what’s missing, what’s misaligned)
+- Strategic Narrative (trust, impact, or public positioning)
+- Strategy Call (interpretation & next steps)
+- Survey Design & Analysis
+
+# **For NGOs & Social Impact Organisations**
+- **Data-Backed Donor Narrative**: Story of your organisation's impact, grounded in official data and your internal metrics, tailored for funder conversations and campaign materials.
+- **Situation Assessment**: Diagnostic report using internal data and public datasets to establish the problem your programme addresses, with context, scale, and affected populations.
+- **Programme Context & Gap Note**: Evidence-based brief positioning your work within the larger ecosystem, who else is working on this, what gaps exist, why your approach matters.
+- **Impact & Change Narrative**: Long-form story demonstrating how your programme contributes to measurable change, using beneficiary data, official outcomes, and logic models.
+
+
 
 ---
 # **Selected work**
