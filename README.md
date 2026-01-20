@@ -1,35 +1,35 @@
 # 👋 Hi, I'm **Samiran**
-- I help NGOs & Social Impact Organisations, SMEs, agencies and teams focused on elections or policy. I Currently work with Otto Media remotely as a Senior Data Strategist. It’s a leading SEO agency in Canberra, Australia. 
-- Translate official datasets into stories, reports and visual packs that build trust, clarify impact, and support decisions.
-- Combine data analysis with plain-language explanations and media-ready narratives that non-technical audiences can act on.
+- I help NGOs & Social Impact Organisations & SMEs. I also help agencies and teams focused on elections or policy.
+- I currently work remotely with Otto Media as a Senior Data Strategist. It’s a Canberra-based (Australia) SEO agency. 
+- I translate official datasets + internal metrics into insight briefs, stories, impact reports, and visual packs (charts + tables) that build trust, support decisions..
+- I combine analysis with plain-language explanations and media-ready narratives for non-technical audiences.
 
-## My Core Insight Framework
+## Fastest way to work with me (Primary Offer)
+### 7-Day Data & Insight Brief (PDF)
 
-Across NGOs & Social Impact Organisations, SMEs, agencies and teams focused on elections or policy:
+**You get:** 8–12 page insight brief + 6–10 charts + clear “So what / Now what” recommendations  
+**Use cases:** donor/CSR pitch, strategy reset, policy/election context note, PR data hooks  
+**Starting from:** ₹12,000 
+---
+
+## What I deliver
+- **Insight Briefs** (what the data is really saying + implications)
+- **Impact / Donor Reports** (credible narrative grounded in metrics)
+- **Trust Building Data Stories with Visual Insight Packs** (charts + tables for decks, reports, PR)
+- **Context & Gap Notes** (what’s missing, misaligned, or misunderstood)
+- **Survey Design & Analysis** (questionnaire + analysis + reporting)
+
+
+## My approach
 
 **Data → Context → Insight → Narrative → Decision**
-
-### Core Deliverables (Common)
-- Insight Brief (what the data is really saying)
-- Visual Insight Pack (clear, decision-ready visuals)
-- Context & Gap Note (what’s missing, what’s misaligned)
-- Strategic Narrative (trust, impact, or public positioning)
-- Strategy Call (interpretation & next steps)
-- Survey Design & Analysis
-
-# **For NGOs & Social Impact Organisations**
-- **Data-Backed Donor Narrative**: Story of your organisation's impact, grounded in official data and your internal metrics, tailored for funder conversations and campaign materials.
-- **Situation Assessment**: Diagnostic report using internal data and public datasets to establish the problem your programme addresses, with context, scale, and affected populations.
-- **Programme Context & Gap Note**: Evidence-based brief positioning your work within the larger ecosystem, who else is working on this, what gaps exist, why your approach matters.
-- **Impact & Change Narrative**: Long-form story demonstrating how your programme contributes to measurable change, using beneficiary data, official outcomes, and logic models.
-
-
-
 ---
+
 # **Selected work**
-- I have co-authored multiple data-driven articles in The Hindu, covering digital divide, inequality, labour market dynamics and social insights. **Full author profile:** - https://www.thehindu.com/profile/author/samiran-sengupta-20270/
+- I have co-authored multiple data-driven articles in The Hindu, covering digital divide, inequality, labour market dynamics and social insights.
+- **Full author profile:** - https://www.thehindu.com/profile/author/samiran-sengupta-20270/
 ---
----
+
 ## 📣 Strategic Data Narratives (Current Role at Otto Media)
 
 ### **🔹 Major Research Publication** (for Aquatots - a swimming instruction school)
