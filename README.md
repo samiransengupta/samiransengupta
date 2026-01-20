@@ -10,6 +10,7 @@
 **You get**: 8–12 page insight brief + 6–10 charts + clear “So what / Now what” recommendations  
 **Use cases**: donor/CSR pitch, strategy reset, policy/election context note, PR data hooks  
 **Starting from**: ₹12,000 
+
 **Contact**: samiran@samiransengupta.com | https://www.linkedin.com/in/samiran-sengupta/
 
 ---
