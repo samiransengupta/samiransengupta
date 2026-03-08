@@ -1,13 +1,13 @@
 # 👋 Hi, I'm **Samiran**
-- I help NGOs & Social Impact Organisations & SMEs. I also help agencies and teams focused on elections or policy.
-- I currently work remotely with Otto Media as a Senior Data Strategist. It’s a Canberra-based (Australia) SEO agency. 
-- I translate official datasets + internal metrics into insight briefs, stories, impact reports, and visual packs (charts + tables) that build trust, support decisions..
-- I combine analysis with plain-language explanations and media-ready narratives for non-technical audiences.
+- I help **PR agencies, digital teams, and research-led brands** turn public data and internal metrics into **insight briefs, visual packs, and media-ready narratives**..
+- I currently work remotely with **Otto Media** as a **Senior Data Strategist**, supporting data-led digital PR work for Australian clients. 
+- I translate **official datasets** and **internal performance data** into **clear stories, charts, and briefings** that support campaigns, strengthen credibility, and make communication more evidence-led.
+- I combine **analysis**, **plain-language explanation**, and **media-ready storytelling** for non-technical audiences.
 
 ## Fastest way to work with me (Primary Offer)
 ### 7-Day Data & Insight Brief (PDF)
 
-**You get**: 8–12 page insight brief + 6–10 charts + clear “So what / Now what” recommendations  
+**You get**: 8–12 page insight brief + 6–10 charts / tables + clear “So what / Now what” recommendations  
 
 **Use cases**: donor/CSR pitch, strategy reset, policy/election context note, PR data hooks  
 
