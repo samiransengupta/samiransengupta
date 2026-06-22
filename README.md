@@ -1,32 +1,35 @@
 # 👋 Hi, I'm **Samiran**
-- I help agencies turn public datasets into defensible PR hooks, charts, and research‑backed content angles their clients can pitch, publish, and defend..
-- I currently work remotely with **Otto Media** as a **Senior Data Strategist**, supporting data-led digital PR work for Australian clients. 
+- I help agencies in transforming public datasets into defensible PR hooks, charts, and research-backed content systems that their clients can pitch, publish, and defend.
+- My approach merges original index methodology with AI-assisted analysis to generate socioeconomic perspectives that not only attract coverage but also influence conversations, rather than merely driving clicks.
 
-## 10-Day Story-Angle Pilot
-### Test one defensible data‑led story angle before committing to a full campaign.
+- currently attached remotely with **Otto Media** (Ongoing data support for content & campaigns as needed),  as a **Senior Data Strategist**
 
-**5–7 story hooks** 
-**1–2 public datasets** 
-**2–3 chart prototypes** 
-**Short methods note Pitch‑angle summary**
+### Data-led content packages for agencies
+## 10-Day Story-Angle Pilot - STARTER
 
-**AUD 1,200–1,800**
+ **1–2 public datasets** 
+ **5–7 story hooks**
+**One data-led story with method note** 
+**Charts and data tables**
+**Pitch angle summary**
+
+**AUD 1,800**
 
 **Contact**: samiran@samiransengupta.com | https://www.linkedin.com/in/samiran-sengupta/
 
 ---
 ## The 10‑Day Workflow
-- **Days 1–2** Kick‑off call & dataset sourcing
-- **Days 3–5** Data cleaning & validation
+- **Days 1–3** Kick‑off call, Ideation & Research
+- **Days 4–5** Data cleaning & validation
 - **Days 6–7** Angle identification & chart prototypes
 - **Days 8–9** Agency feedback round
 - **Day 10 Final delivery** 
 
+---
 
+**email a brief — I'll come back within 48 hours with two angle directions, free** 
+**samiran@samiransengupta.com** 
 
-**Small enough to test without committing to a full campaign.** 
-**Substantial enough to produce real research value.** 
-**Useful when an agency needs strategy, analysis, charts, and pitchable angles in one compact brief.**
 ---
 
 # **Selected work**
