@@ -7,10 +7,10 @@
 ### Data-led content packages for agencies
 ## 10-Day Story-Angle Pilot - STARTER
 
- **1–2 public datasets** 
- **5–7 story hooks**
-**One data-led story with method note** 
-**Charts and data tables**
+ **1–2 public datasets**, 
+ **5–7 story hooks**, 
+**One data-led story with method note**,  
+**Charts and data tables**, 
 **Pitch angle summary**
 
 **AUD 1,800**
