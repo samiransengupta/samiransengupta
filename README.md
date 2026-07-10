@@ -13,7 +13,7 @@
 **Charts and data tables**, 
 **Pitch angle summary**
 
-**AUD 1,800**
+**AUD 2,000**
 
 **Contact**: samiran@samiransengupta.com | https://www.linkedin.com/in/samiran-sengupta/
 
