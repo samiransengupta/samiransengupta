@@ -1,7 +1,8 @@
 # 👋 Hi, I'm **Samiran**
 - I help agencies in transforming public datasets into defensible PR hooks, charts, and research-backed content systems that their clients can pitch, publish, and defend.
-- My approach merges original index methodology with AI-assisted analysis to generate socioeconomic perspectives that not only attract coverage but also influence conversations, rather than merely driving clicks.
-
+- My approach merges original index methodology with analysis to generate socioeconomic perspectives that not only attract coverage but also influence conversations, rather than merely driving clicks. 
+- I offer white-label and end-to-end solutions, I develop the campaign from data to narrative, you keep the outreach and client relationship.
+  
 - currently attached remotely with **Otto Media** (Ongoing data support for content & campaigns as needed),  as a **Senior Data Strategist**
 
 ### Data-led content packages for agencies
